@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<p> 
+  <a href=""> <img height="200" src="https://github-readme-stats.vercel.app/api?username=ShallowGreen123&hide=issues&show_icons=true&include_all_commits=true" /> </a>
+  <a href=""> <img height="200" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShallowGreen123&layout=compact" /> </a>
+</p>
+
 
 <!--
 **ShallowGreen123/ShallowGreen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
